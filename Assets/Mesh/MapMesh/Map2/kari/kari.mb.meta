@@ -1,0 +1,2115 @@
+fileFormatVersion: 2
+guid: 837f1308d43f845e58b06affd318b826
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: daizu:group1
+    100002: daizu:group2
+    100004: daizu:group3
+    100006: glass:grass:grass_01
+    100008: grass_01
+    100010: grass_010
+    100012: grass_011
+    100014: grass_012
+    100016: grass_013
+    100018: grass_014
+    100020: grass_015
+    100022: grass_016
+    100024: grass_017
+    100026: grass_018
+    100028: grass_019
+    100030: grass_02
+    100032: grass_020
+    100034: grass_021
+    100036: grass_03
+    100038: grass_04
+    100040: grass_05
+    100042: grass_06
+    100044: grass_07
+    100046: grass_08
+    100048: grass_09
+    100050: group1
+    100052: group10
+    100054: group11
+    100056: group12
+    100058: group13
+    100060: group14
+    100062: group15
+    100064: group16
+    100066: group17
+    100068: group18
+    100070: group19
+    100072: group2
+    100074: group20
+    100076: group21
+    100078: group22
+    100080: group23
+    100082: group24
+    100084: group26
+    100086: group27
+    100088: group28
+    100090: group29
+    100092: group3
+    100094: group30
+    100096: group31
+    100098: group32
+    100100: group33
+    100102: group34
+    100104: group35
+    100106: group36
+    100108: group37
+    100110: group38
+    100112: group39
+    100114: group4
+    100116: group40
+    100118: group41
+    100120: group42
+    100122: group43
+    100124: group44
+    100126: group45
+    100128: group46
+    100130: group47
+    100132: group48
+    100134: group49
+    100136: group5
+    100138: group50
+    100140: group51
+    100142: group52
+    100144: group53
+    100146: group6
+    100148: group7
+    100150: group8
+    100152: group9
+    100154: house_0007:group7
+    100156: house_0007:pCone1
+    100158: house_0007:pCone2
+    100160: house_0007:pCube1
+    100162: house_0007:pCube12
+    100164: house_0007:pCube13
+    100166: house_0007:pCube28
+    100168: house_0007:pCube30
+    100170: house_0007:pCube31
+    100172: house_0007:pCube71
+    100174: house_0007:pCube72
+    100176: house_0007:pCube74
+    100178: house_0007:pCube75
+    100180: house_0007:polySurface109
+    100182: house_0007:polySurface111
+    100184: house_0007:polySurface114
+    100186: house_0007:polySurface115
+    100188: house_0007:polySurface119
+    100190: house_0007:polySurface120
+    100192: house_0007:polySurface44
+    100194: house_0007:polySurface45
+    100196: house_0007:polySurface46
+    100198: house_0007:polySurface47
+    100200: //RootNode
+    100202: Palm_019
+    100204: Palm_020
+    100206: Palm_021
+    100208: Palm_022
+    100210: Palm_023
+    100212: Palm_024
+    100214: Palm_025
+    100216: Palm_026
+    100218: Palm_027
+    100220: Palm_028
+    100222: Palm_029
+    100224: Palm_030
+    100226: Palm_031
+    100228: Palm_032
+    100230: Palm_033
+    100232: Palm_034
+    100234: Palm_035
+    100236: Palm_036
+    100238: Palm_037
+    100240: Palm_038
+    100242: Palm_039
+    100244: Palm_040
+    100246: Palm_041
+    100248: Palm_042
+    100250: Palm_043
+    100252: Palm_044
+    100254: Palm_045
+    100256: Palm_046
+    100258: Palm_047
+    100260: Palm_048
+    100262: Palm_049
+    100264: Palm_050
+    100266: Palm_051
+    100268: Palm_052
+    100270: Palm_053
+    100272: Palm_054
+    100274: Palm_055
+    100276: Palm_056
+    100278: Palm_057
+    100280: Palm_058
+    100282: Palm_059
+    100284: Palm_060
+    100286: Palm_061
+    100288: Palm_062
+    100290: Palm_063
+    100292: Palm_064
+    100294: Palm_065
+    100296: Palm_066
+    100298: Palm_067
+    100300: Palm_068
+    100302: Palm_069
+    100304: Palm_070
+    100306: pCube1
+    100308: pCube1 1
+    100310: pCube1 10
+    100312: pCube1 11
+    100314: pCube1 12
+    100316: pCube1 13
+    100318: pCube1 14
+    100320: pCube1 15
+    100322: pCube1 16
+    100324: pCube1 2
+    100326: pCube1 3
+    100328: pCube1 4
+    100330: pCube1 5
+    100332: pCube1 6
+    100334: pCube1 7
+    100336: pCube1 8
+    100338: pCube1 9
+    100340: pCube10
+    100342: pCube10 1
+    100344: pCube10 10
+    100346: pCube10 11
+    100348: pCube10 12
+    100350: pCube10 13
+    100352: pCube10 14
+    100354: pCube10 15
+    100356: pCube10 2
+    100358: pCube10 3
+    100360: pCube10 4
+    100362: pCube10 5
+    100364: pCube10 6
+    100366: pCube10 7
+    100368: pCube10 8
+    100370: pCube10 9
+    100372: pCube11
+    100374: pCube12
+    100376: pCube13
+    100378: pCube14
+    100380: pCube2
+    100382: pCube2 1
+    100384: pCube2 10
+    100386: pCube2 11
+    100388: pCube2 12
+    100390: pCube2 13
+    100392: pCube2 14
+    100394: pCube2 15
+    100396: pCube2 2
+    100398: pCube2 3
+    100400: pCube2 4
+    100402: pCube2 5
+    100404: pCube2 6
+    100406: pCube2 7
+    100408: pCube2 8
+    100410: pCube2 9
+    100412: pCube3
+    100414: pCube3 1
+    100416: pCube3 10
+    100418: pCube3 11
+    100420: pCube3 12
+    100422: pCube3 13
+    100424: pCube3 14
+    100426: pCube3 15
+    100428: pCube3 16
+    100430: pCube3 2
+    100432: pCube3 3
+    100434: pCube3 4
+    100436: pCube3 5
+    100438: pCube3 6
+    100440: pCube3 7
+    100442: pCube3 8
+    100444: pCube3 9
+    100446: pCube4
+    100448: pCube4 1
+    100450: pCube4 10
+    100452: pCube4 11
+    100454: pCube4 12
+    100456: pCube4 13
+    100458: pCube4 14
+    100460: pCube4 15
+    100462: pCube4 2
+    100464: pCube4 3
+    100466: pCube4 4
+    100468: pCube4 5
+    100470: pCube4 6
+    100472: pCube4 7
+    100474: pCube4 8
+    100476: pCube4 9
+    100478: pCube5
+    100480: pCube5 1
+    100482: pCube5 10
+    100484: pCube5 11
+    100486: pCube5 12
+    100488: pCube5 13
+    100490: pCube5 14
+    100492: pCube5 15
+    100494: pCube5 2
+    100496: pCube5 3
+    100498: pCube5 4
+    100500: pCube5 5
+    100502: pCube5 6
+    100504: pCube5 7
+    100506: pCube5 8
+    100508: pCube5 9
+    100510: pCube6
+    100512: pCube6 1
+    100514: pCube6 10
+    100516: pCube6 11
+    100518: pCube6 12
+    100520: pCube6 13
+    100522: pCube6 14
+    100524: pCube6 15
+    100526: pCube6 2
+    100528: pCube6 3
+    100530: pCube6 4
+    100532: pCube6 5
+    100534: pCube6 6
+    100536: pCube6 7
+    100538: pCube6 8
+    100540: pCube6 9
+    100542: pCube7
+    100544: pCube7 1
+    100546: pCube7 10
+    100548: pCube7 11
+    100550: pCube7 12
+    100552: pCube7 13
+    100554: pCube7 14
+    100556: pCube7 15
+    100558: pCube7 16
+    100560: pCube7 2
+    100562: pCube7 3
+    100564: pCube7 4
+    100566: pCube7 5
+    100568: pCube7 6
+    100570: pCube7 7
+    100572: pCube7 8
+    100574: pCube7 9
+    100576: pCube8
+    100578: pCube8 1
+    100580: pCube8 10
+    100582: pCube8 11
+    100584: pCube8 12
+    100586: pCube8 13
+    100588: pCube8 14
+    100590: pCube8 15
+    100592: pCube8 2
+    100594: pCube8 3
+    100596: pCube8 4
+    100598: pCube8 5
+    100600: pCube8 6
+    100602: pCube8 7
+    100604: pCube8 8
+    100606: pCube8 9
+    100608: pCube9
+    100610: pCube9 1
+    100612: pCube9 10
+    100614: pCube9 11
+    100616: pCube9 12
+    100618: pCube9 13
+    100620: pCube9 14
+    100622: pCube9 15
+    100624: pCube9 2
+    100626: pCube9 3
+    100628: pCube9 4
+    100630: pCube9 5
+    100632: pCube9 6
+    100634: pCube9 7
+    100636: pCube9 8
+    100638: pCube9 9
+    100640: pSphere1
+    100642: pSphere1 1
+    100644: pSphere1 10
+    100646: pSphere1 11
+    100648: pSphere1 12
+    100650: pSphere1 13
+    100652: pSphere1 14
+    100654: pSphere1 15
+    100656: pSphere1 2
+    100658: pSphere1 3
+    100660: pSphere1 4
+    100662: pSphere1 5
+    100664: pSphere1 6
+    100666: pSphere1 7
+    100668: pSphere1 8
+    100670: pSphere1 9
+    100672: pSphere2
+    100674: pSphere2 1
+    100676: pSphere2 10
+    100678: pSphere2 11
+    100680: pSphere2 12
+    100682: pSphere2 13
+    100684: pSphere2 14
+    100686: pSphere2 15
+    100688: pSphere2 2
+    100690: pSphere2 3
+    100692: pSphere2 4
+    100694: pSphere2 5
+    100696: pSphere2 6
+    100698: pSphere2 7
+    100700: pSphere2 8
+    100702: pSphere2 9
+    100704: pSphere3
+    100706: pSphere3 1
+    100708: pSphere3 10
+    100710: pSphere3 11
+    100712: pSphere3 12
+    100714: pSphere3 13
+    100716: pSphere3 14
+    100718: pSphere3 15
+    100720: pSphere3 2
+    100722: pSphere3 3
+    100724: pSphere3 4
+    100726: pSphere3 5
+    100728: pSphere3 6
+    100730: pSphere3 7
+    100732: pSphere3 8
+    100734: pSphere3 9
+    100736: pSphere4
+    100738: pSphere4 1
+    100740: pSphere4 10
+    100742: pSphere4 11
+    100744: pSphere4 12
+    100746: pSphere4 13
+    100748: pSphere4 14
+    100750: pSphere4 15
+    100752: pSphere4 2
+    100754: pSphere4 3
+    100756: pSphere4 4
+    100758: pSphere4 5
+    100760: pSphere4 6
+    100762: pSphere4 7
+    100764: pSphere4 8
+    100766: pSphere4 9
+    100768: saku:group1
+    100770: saku:pCube1
+    100772: saku:pCube10
+    100774: saku:pCube2
+    100776: saku:pCube3
+    100778: saku:pCube4
+    100780: saku:pCube5
+    100782: saku:pCube6
+    100784: saku:pCube7
+    100786: saku:pCube8
+    100788: saku:pCube9
+    100790: saku:pSphere1
+    100792: saku:pSphere2
+    100794: saku:pSphere3
+    100796: saku:pSphere4
+    100798: stone:pCube1
+    100800: track:pCube1
+    100802: track:pCube2
+    100804: track:pCube3
+    100806: track:pCube4
+    100808: track:pCube5
+    100810: track:pCube6
+    100812: track:pCylinder1
+    100814: track:pCylinder2
+    100816: track:pCylinder3
+    100818: track:pCylinder4
+    100820: track:pCylinder5
+    100822: track:pCylinder6
+    100824: track:transform1
+    100826: track:transform10
+    100828: track:transform11
+    100830: track:transform12
+    100832: track:transform2
+    100834: track:transform3
+    100836: track:transform4
+    100838: track:transform5
+    100840: track:transform6
+    100842: track:transform7
+    100844: track:transform8
+    100846: track:transform9
+    100848: transform1
+    100850: transform10
+    100852: transform11
+    100854: transform12
+    100856: transform13
+    100858: transform14
+    100860: transform15
+    100862: transform16
+    100864: transform17
+    100866: transform18
+    100868: transform19
+    100870: transform2
+    100872: transform20
+    100874: transform21
+    100876: transform22
+    100878: transform23
+    100880: transform24
+    100882: transform25
+    100884: transform26
+    100886: transform27
+    100888: transform28
+    100890: transform29
+    100892: transform3
+    100894: transform30
+    100896: transform31
+    100898: transform32
+    100900: transform33
+    100902: transform34
+    100904: transform35
+    100906: transform36
+    100908: transform37
+    100910: transform38
+    100912: transform39
+    100914: transform4
+    100916: transform40
+    100918: transform41
+    100920: transform42
+    100922: transform5
+    100924: transform6
+    100926: transform7
+    100928: transform8
+    100930: transform9
+    100932: wood:daizu:polySurface19
+    100934: wood:daizu:polySurface4
+    100936: wood:daizu:polySurface6
+    100938: wood:Farm:Palm_012
+    100940: wood:Farm:Palm_013
+    100942: wood:Farm:Palm_014
+    100944: wood:Farm:Palm_017
+    100946: wood:Farm:Palm_018
+    100948: wood:Farm:Palm_019
+    100950: wood:group1
+    100952: wood:group2
+    100954: wood:Palm_012
+    100956: wood:Palm_017
+    100958: wood:Palm_018
+    100960: wood:Palm_019
+    100962: wood:Palm_020
+    100964: wood:Palm_021
+    100966: wood:pCylinder1
+    100968: wood:polySurface6
+    100970: wood:polySurface7
+    100972: wood:transform1
+    100974: wood:transform10
+    100976: wood:transform11
+    100978: wood:transform12
+    100980: wood:transform13
+    100982: wood:transform14
+    100984: wood:transform15
+    100986: wood:transform16
+    100988: wood:transform17
+    100990: wood:transform18
+    100992: wood:transform2
+    100994: wood:transform3
+    100996: wood:transform4
+    100998: wood:transform5
+    101000: wood:transform6
+    101002: wood:transform7
+    101004: wood:transform8
+    101006: wood:transform9
+    400000: daizu:group1
+    400002: daizu:group2
+    400004: daizu:group3
+    400006: glass:grass:grass_01
+    400008: grass_01
+    400010: grass_010
+    400012: grass_011
+    400014: grass_012
+    400016: grass_013
+    400018: grass_014
+    400020: grass_015
+    400022: grass_016
+    400024: grass_017
+    400026: grass_018
+    400028: grass_019
+    400030: grass_02
+    400032: grass_020
+    400034: grass_021
+    400036: grass_03
+    400038: grass_04
+    400040: grass_05
+    400042: grass_06
+    400044: grass_07
+    400046: grass_08
+    400048: grass_09
+    400050: group1
+    400052: group10
+    400054: group11
+    400056: group12
+    400058: group13
+    400060: group14
+    400062: group15
+    400064: group16
+    400066: group17
+    400068: group18
+    400070: group19
+    400072: group2
+    400074: group20
+    400076: group21
+    400078: group22
+    400080: group23
+    400082: group24
+    400084: group26
+    400086: group27
+    400088: group28
+    400090: group29
+    400092: group3
+    400094: group30
+    400096: group31
+    400098: group32
+    400100: group33
+    400102: group34
+    400104: group35
+    400106: group36
+    400108: group37
+    400110: group38
+    400112: group39
+    400114: group4
+    400116: group40
+    400118: group41
+    400120: group42
+    400122: group43
+    400124: group44
+    400126: group45
+    400128: group46
+    400130: group47
+    400132: group48
+    400134: group49
+    400136: group5
+    400138: group50
+    400140: group51
+    400142: group52
+    400144: group53
+    400146: group6
+    400148: group7
+    400150: group8
+    400152: group9
+    400154: house_0007:group7
+    400156: house_0007:pCone1
+    400158: house_0007:pCone2
+    400160: house_0007:pCube1
+    400162: house_0007:pCube12
+    400164: house_0007:pCube13
+    400166: house_0007:pCube28
+    400168: house_0007:pCube30
+    400170: house_0007:pCube31
+    400172: house_0007:pCube71
+    400174: house_0007:pCube72
+    400176: house_0007:pCube74
+    400178: house_0007:pCube75
+    400180: house_0007:polySurface109
+    400182: house_0007:polySurface111
+    400184: house_0007:polySurface114
+    400186: house_0007:polySurface115
+    400188: house_0007:polySurface119
+    400190: house_0007:polySurface120
+    400192: house_0007:polySurface44
+    400194: house_0007:polySurface45
+    400196: house_0007:polySurface46
+    400198: house_0007:polySurface47
+    400200: //RootNode
+    400202: Palm_019
+    400204: Palm_020
+    400206: Palm_021
+    400208: Palm_022
+    400210: Palm_023
+    400212: Palm_024
+    400214: Palm_025
+    400216: Palm_026
+    400218: Palm_027
+    400220: Palm_028
+    400222: Palm_029
+    400224: Palm_030
+    400226: Palm_031
+    400228: Palm_032
+    400230: Palm_033
+    400232: Palm_034
+    400234: Palm_035
+    400236: Palm_036
+    400238: Palm_037
+    400240: Palm_038
+    400242: Palm_039
+    400244: Palm_040
+    400246: Palm_041
+    400248: Palm_042
+    400250: Palm_043
+    400252: Palm_044
+    400254: Palm_045
+    400256: Palm_046
+    400258: Palm_047
+    400260: Palm_048
+    400262: Palm_049
+    400264: Palm_050
+    400266: Palm_051
+    400268: Palm_052
+    400270: Palm_053
+    400272: Palm_054
+    400274: Palm_055
+    400276: Palm_056
+    400278: Palm_057
+    400280: Palm_058
+    400282: Palm_059
+    400284: Palm_060
+    400286: Palm_061
+    400288: Palm_062
+    400290: Palm_063
+    400292: Palm_064
+    400294: Palm_065
+    400296: Palm_066
+    400298: Palm_067
+    400300: Palm_068
+    400302: Palm_069
+    400304: Palm_070
+    400306: pCube1
+    400308: pCube1 1
+    400310: pCube1 10
+    400312: pCube1 11
+    400314: pCube1 12
+    400316: pCube1 13
+    400318: pCube1 14
+    400320: pCube1 15
+    400322: pCube1 16
+    400324: pCube1 2
+    400326: pCube1 3
+    400328: pCube1 4
+    400330: pCube1 5
+    400332: pCube1 6
+    400334: pCube1 7
+    400336: pCube1 8
+    400338: pCube1 9
+    400340: pCube10
+    400342: pCube10 1
+    400344: pCube10 10
+    400346: pCube10 11
+    400348: pCube10 12
+    400350: pCube10 13
+    400352: pCube10 14
+    400354: pCube10 15
+    400356: pCube10 2
+    400358: pCube10 3
+    400360: pCube10 4
+    400362: pCube10 5
+    400364: pCube10 6
+    400366: pCube10 7
+    400368: pCube10 8
+    400370: pCube10 9
+    400372: pCube11
+    400374: pCube12
+    400376: pCube13
+    400378: pCube14
+    400380: pCube2
+    400382: pCube2 1
+    400384: pCube2 10
+    400386: pCube2 11
+    400388: pCube2 12
+    400390: pCube2 13
+    400392: pCube2 14
+    400394: pCube2 15
+    400396: pCube2 2
+    400398: pCube2 3
+    400400: pCube2 4
+    400402: pCube2 5
+    400404: pCube2 6
+    400406: pCube2 7
+    400408: pCube2 8
+    400410: pCube2 9
+    400412: pCube3
+    400414: pCube3 1
+    400416: pCube3 10
+    400418: pCube3 11
+    400420: pCube3 12
+    400422: pCube3 13
+    400424: pCube3 14
+    400426: pCube3 15
+    400428: pCube3 16
+    400430: pCube3 2
+    400432: pCube3 3
+    400434: pCube3 4
+    400436: pCube3 5
+    400438: pCube3 6
+    400440: pCube3 7
+    400442: pCube3 8
+    400444: pCube3 9
+    400446: pCube4
+    400448: pCube4 1
+    400450: pCube4 10
+    400452: pCube4 11
+    400454: pCube4 12
+    400456: pCube4 13
+    400458: pCube4 14
+    400460: pCube4 15
+    400462: pCube4 2
+    400464: pCube4 3
+    400466: pCube4 4
+    400468: pCube4 5
+    400470: pCube4 6
+    400472: pCube4 7
+    400474: pCube4 8
+    400476: pCube4 9
+    400478: pCube5
+    400480: pCube5 1
+    400482: pCube5 10
+    400484: pCube5 11
+    400486: pCube5 12
+    400488: pCube5 13
+    400490: pCube5 14
+    400492: pCube5 15
+    400494: pCube5 2
+    400496: pCube5 3
+    400498: pCube5 4
+    400500: pCube5 5
+    400502: pCube5 6
+    400504: pCube5 7
+    400506: pCube5 8
+    400508: pCube5 9
+    400510: pCube6
+    400512: pCube6 1
+    400514: pCube6 10
+    400516: pCube6 11
+    400518: pCube6 12
+    400520: pCube6 13
+    400522: pCube6 14
+    400524: pCube6 15
+    400526: pCube6 2
+    400528: pCube6 3
+    400530: pCube6 4
+    400532: pCube6 5
+    400534: pCube6 6
+    400536: pCube6 7
+    400538: pCube6 8
+    400540: pCube6 9
+    400542: pCube7
+    400544: pCube7 1
+    400546: pCube7 10
+    400548: pCube7 11
+    400550: pCube7 12
+    400552: pCube7 13
+    400554: pCube7 14
+    400556: pCube7 15
+    400558: pCube7 16
+    400560: pCube7 2
+    400562: pCube7 3
+    400564: pCube7 4
+    400566: pCube7 5
+    400568: pCube7 6
+    400570: pCube7 7
+    400572: pCube7 8
+    400574: pCube7 9
+    400576: pCube8
+    400578: pCube8 1
+    400580: pCube8 10
+    400582: pCube8 11
+    400584: pCube8 12
+    400586: pCube8 13
+    400588: pCube8 14
+    400590: pCube8 15
+    400592: pCube8 2
+    400594: pCube8 3
+    400596: pCube8 4
+    400598: pCube8 5
+    400600: pCube8 6
+    400602: pCube8 7
+    400604: pCube8 8
+    400606: pCube8 9
+    400608: pCube9
+    400610: pCube9 1
+    400612: pCube9 10
+    400614: pCube9 11
+    400616: pCube9 12
+    400618: pCube9 13
+    400620: pCube9 14
+    400622: pCube9 15
+    400624: pCube9 2
+    400626: pCube9 3
+    400628: pCube9 4
+    400630: pCube9 5
+    400632: pCube9 6
+    400634: pCube9 7
+    400636: pCube9 8
+    400638: pCube9 9
+    400640: pSphere1
+    400642: pSphere1 1
+    400644: pSphere1 10
+    400646: pSphere1 11
+    400648: pSphere1 12
+    400650: pSphere1 13
+    400652: pSphere1 14
+    400654: pSphere1 15
+    400656: pSphere1 2
+    400658: pSphere1 3
+    400660: pSphere1 4
+    400662: pSphere1 5
+    400664: pSphere1 6
+    400666: pSphere1 7
+    400668: pSphere1 8
+    400670: pSphere1 9
+    400672: pSphere2
+    400674: pSphere2 1
+    400676: pSphere2 10
+    400678: pSphere2 11
+    400680: pSphere2 12
+    400682: pSphere2 13
+    400684: pSphere2 14
+    400686: pSphere2 15
+    400688: pSphere2 2
+    400690: pSphere2 3
+    400692: pSphere2 4
+    400694: pSphere2 5
+    400696: pSphere2 6
+    400698: pSphere2 7
+    400700: pSphere2 8
+    400702: pSphere2 9
+    400704: pSphere3
+    400706: pSphere3 1
+    400708: pSphere3 10
+    400710: pSphere3 11
+    400712: pSphere3 12
+    400714: pSphere3 13
+    400716: pSphere3 14
+    400718: pSphere3 15
+    400720: pSphere3 2
+    400722: pSphere3 3
+    400724: pSphere3 4
+    400726: pSphere3 5
+    400728: pSphere3 6
+    400730: pSphere3 7
+    400732: pSphere3 8
+    400734: pSphere3 9
+    400736: pSphere4
+    400738: pSphere4 1
+    400740: pSphere4 10
+    400742: pSphere4 11
+    400744: pSphere4 12
+    400746: pSphere4 13
+    400748: pSphere4 14
+    400750: pSphere4 15
+    400752: pSphere4 2
+    400754: pSphere4 3
+    400756: pSphere4 4
+    400758: pSphere4 5
+    400760: pSphere4 6
+    400762: pSphere4 7
+    400764: pSphere4 8
+    400766: pSphere4 9
+    400768: saku:group1
+    400770: saku:pCube1
+    400772: saku:pCube10
+    400774: saku:pCube2
+    400776: saku:pCube3
+    400778: saku:pCube4
+    400780: saku:pCube5
+    400782: saku:pCube6
+    400784: saku:pCube7
+    400786: saku:pCube8
+    400788: saku:pCube9
+    400790: saku:pSphere1
+    400792: saku:pSphere2
+    400794: saku:pSphere3
+    400796: saku:pSphere4
+    400798: stone:pCube1
+    400800: track:pCube1
+    400802: track:pCube2
+    400804: track:pCube3
+    400806: track:pCube4
+    400808: track:pCube5
+    400810: track:pCube6
+    400812: track:pCylinder1
+    400814: track:pCylinder2
+    400816: track:pCylinder3
+    400818: track:pCylinder4
+    400820: track:pCylinder5
+    400822: track:pCylinder6
+    400824: track:transform1
+    400826: track:transform10
+    400828: track:transform11
+    400830: track:transform12
+    400832: track:transform2
+    400834: track:transform3
+    400836: track:transform4
+    400838: track:transform5
+    400840: track:transform6
+    400842: track:transform7
+    400844: track:transform8
+    400846: track:transform9
+    400848: transform1
+    400850: transform10
+    400852: transform11
+    400854: transform12
+    400856: transform13
+    400858: transform14
+    400860: transform15
+    400862: transform16
+    400864: transform17
+    400866: transform18
+    400868: transform19
+    400870: transform2
+    400872: transform20
+    400874: transform21
+    400876: transform22
+    400878: transform23
+    400880: transform24
+    400882: transform25
+    400884: transform26
+    400886: transform27
+    400888: transform28
+    400890: transform29
+    400892: transform3
+    400894: transform30
+    400896: transform31
+    400898: transform32
+    400900: transform33
+    400902: transform34
+    400904: transform35
+    400906: transform36
+    400908: transform37
+    400910: transform38
+    400912: transform39
+    400914: transform4
+    400916: transform40
+    400918: transform41
+    400920: transform42
+    400922: transform5
+    400924: transform6
+    400926: transform7
+    400928: transform8
+    400930: transform9
+    400932: wood:daizu:polySurface19
+    400934: wood:daizu:polySurface4
+    400936: wood:daizu:polySurface6
+    400938: wood:Farm:Palm_012
+    400940: wood:Farm:Palm_013
+    400942: wood:Farm:Palm_014
+    400944: wood:Farm:Palm_017
+    400946: wood:Farm:Palm_018
+    400948: wood:Farm:Palm_019
+    400950: wood:group1
+    400952: wood:group2
+    400954: wood:Palm_012
+    400956: wood:Palm_017
+    400958: wood:Palm_018
+    400960: wood:Palm_019
+    400962: wood:Palm_020
+    400964: wood:Palm_021
+    400966: wood:pCylinder1
+    400968: wood:polySurface6
+    400970: wood:polySurface7
+    400972: wood:transform1
+    400974: wood:transform10
+    400976: wood:transform11
+    400978: wood:transform12
+    400980: wood:transform13
+    400982: wood:transform14
+    400984: wood:transform15
+    400986: wood:transform16
+    400988: wood:transform17
+    400990: wood:transform18
+    400992: wood:transform2
+    400994: wood:transform3
+    400996: wood:transform4
+    400998: wood:transform5
+    401000: wood:transform6
+    401002: wood:transform7
+    401004: wood:transform8
+    401006: wood:transform9
+    2100000: lambert4
+    2100002: lambert1
+    2100004: house_0007_lambert21
+    2100006: house_0007_lambert9
+    2100008: house_0007_house_obj_blinn1SG1
+    2100010: house_0007_lambert18
+    2100012: Farm1_lambert2
+    2100014: lambert3
+    2100016: saku_lambert2
+    2100018: wood_Farm_lambert2
+    2100020: wood_lambert2
+    2100022: glass_lambert2
+    2100024: stone_lambert3
+    2300000: glass:grass:grass_01
+    2300002: grass_01
+    2300004: grass_010
+    2300006: grass_011
+    2300008: grass_012
+    2300010: grass_013
+    2300012: grass_014
+    2300014: grass_015
+    2300016: grass_016
+    2300018: grass_017
+    2300020: grass_018
+    2300022: grass_019
+    2300024: grass_02
+    2300026: grass_020
+    2300028: grass_021
+    2300030: grass_03
+    2300032: grass_04
+    2300034: grass_05
+    2300036: grass_06
+    2300038: grass_07
+    2300040: grass_08
+    2300042: grass_09
+    2300044: group19
+    2300046: group20
+    2300048: group21
+    2300050: group22
+    2300052: group23
+    2300054: group24
+    2300056: group26
+    2300058: group27
+    2300060: group28
+    2300062: group29
+    2300064: group30
+    2300066: group31
+    2300068: group32
+    2300070: group33
+    2300072: group34
+    2300074: group35
+    2300076: group36
+    2300078: group37
+    2300080: group38
+    2300082: group39
+    2300084: group40
+    2300086: group41
+    2300088: group42
+    2300090: group43
+    2300092: group44
+    2300094: group45
+    2300096: group46
+    2300098: group47
+    2300100: group48
+    2300102: group49
+    2300104: group50
+    2300106: group51
+    2300108: group52
+    2300110: group53
+    2300112: house_0007:pCone1
+    2300114: house_0007:pCone2
+    2300116: house_0007:pCube1
+    2300118: house_0007:pCube12
+    2300120: house_0007:pCube13
+    2300122: house_0007:pCube28
+    2300124: house_0007:pCube30
+    2300126: house_0007:pCube31
+    2300128: house_0007:pCube71
+    2300130: house_0007:pCube72
+    2300132: house_0007:pCube74
+    2300134: house_0007:pCube75
+    2300136: house_0007:polySurface109
+    2300138: house_0007:polySurface111
+    2300140: house_0007:polySurface114
+    2300142: house_0007:polySurface115
+    2300144: house_0007:polySurface119
+    2300146: house_0007:polySurface120
+    2300148: house_0007:polySurface44
+    2300150: house_0007:polySurface45
+    2300152: house_0007:polySurface46
+    2300154: house_0007:polySurface47
+    2300156: Palm_019
+    2300158: Palm_020
+    2300160: Palm_021
+    2300162: Palm_022
+    2300164: Palm_023
+    2300166: Palm_024
+    2300168: Palm_025
+    2300170: Palm_026
+    2300172: Palm_027
+    2300174: Palm_028
+    2300176: Palm_029
+    2300178: Palm_030
+    2300180: Palm_031
+    2300182: Palm_032
+    2300184: Palm_033
+    2300186: Palm_034
+    2300188: Palm_035
+    2300190: Palm_036
+    2300192: Palm_037
+    2300194: Palm_038
+    2300196: Palm_039
+    2300198: Palm_040
+    2300200: Palm_041
+    2300202: Palm_042
+    2300204: Palm_043
+    2300206: Palm_044
+    2300208: Palm_045
+    2300210: Palm_046
+    2300212: Palm_047
+    2300214: Palm_048
+    2300216: Palm_049
+    2300218: Palm_050
+    2300220: Palm_051
+    2300222: Palm_052
+    2300224: Palm_053
+    2300226: Palm_054
+    2300228: Palm_055
+    2300230: Palm_056
+    2300232: Palm_057
+    2300234: Palm_058
+    2300236: Palm_059
+    2300238: Palm_060
+    2300240: Palm_061
+    2300242: Palm_062
+    2300244: Palm_063
+    2300246: Palm_064
+    2300248: Palm_065
+    2300250: Palm_066
+    2300252: Palm_067
+    2300254: Palm_068
+    2300256: Palm_069
+    2300258: Palm_070
+    2300260: pCube1
+    2300262: pCube1 1
+    2300264: pCube1 10
+    2300266: pCube1 11
+    2300268: pCube1 12
+    2300270: pCube1 13
+    2300272: pCube1 14
+    2300274: pCube1 15
+    2300276: pCube1 16
+    2300278: pCube1 2
+    2300280: pCube1 3
+    2300282: pCube1 4
+    2300284: pCube1 5
+    2300286: pCube1 6
+    2300288: pCube10
+    2300290: pCube10 1
+    2300292: pCube10 10
+    2300294: pCube10 11
+    2300296: pCube10 12
+    2300298: pCube10 13
+    2300300: pCube10 14
+    2300302: pCube10 15
+    2300304: pCube10 2
+    2300306: pCube10 3
+    2300308: pCube10 4
+    2300310: pCube10 5
+    2300312: pCube10 9
+    2300314: pCube11
+    2300316: pCube12
+    2300318: pCube13
+    2300320: pCube14
+    2300322: pCube2
+    2300324: pCube2 1
+    2300326: pCube2 10
+    2300328: pCube2 11
+    2300330: pCube2 12
+    2300332: pCube2 13
+    2300334: pCube2 14
+    2300336: pCube2 15
+    2300338: pCube2 2
+    2300340: pCube2 3
+    2300342: pCube2 4
+    2300344: pCube2 5
+    2300346: pCube2 9
+    2300348: pCube3
+    2300350: pCube3 1
+    2300352: pCube3 10
+    2300354: pCube3 11
+    2300356: pCube3 12
+    2300358: pCube3 13
+    2300360: pCube3 14
+    2300362: pCube3 15
+    2300364: pCube3 16
+    2300366: pCube3 2
+    2300368: pCube3 3
+    2300370: pCube3 4
+    2300372: pCube3 5
+    2300374: pCube3 6
+    2300376: pCube4
+    2300378: pCube4 1
+    2300380: pCube4 10
+    2300382: pCube4 11
+    2300384: pCube4 12
+    2300386: pCube4 13
+    2300388: pCube4 14
+    2300390: pCube4 15
+    2300392: pCube4 2
+    2300394: pCube4 3
+    2300396: pCube4 4
+    2300398: pCube4 5
+    2300400: pCube4 9
+    2300402: pCube5
+    2300404: pCube5 1
+    2300406: pCube5 10
+    2300408: pCube5 11
+    2300410: pCube5 12
+    2300412: pCube5 13
+    2300414: pCube5 14
+    2300416: pCube5 15
+    2300418: pCube5 2
+    2300420: pCube5 3
+    2300422: pCube5 4
+    2300424: pCube5 5
+    2300426: pCube5 9
+    2300428: pCube6
+    2300430: pCube6 1
+    2300432: pCube6 10
+    2300434: pCube6 11
+    2300436: pCube6 12
+    2300438: pCube6 13
+    2300440: pCube6 14
+    2300442: pCube6 15
+    2300444: pCube6 2
+    2300446: pCube6 3
+    2300448: pCube6 4
+    2300450: pCube6 5
+    2300452: pCube6 9
+    2300454: pCube7
+    2300456: pCube7 1
+    2300458: pCube7 10
+    2300460: pCube7 11
+    2300462: pCube7 12
+    2300464: pCube7 13
+    2300466: pCube7 14
+    2300468: pCube7 15
+    2300470: pCube7 16
+    2300472: pCube7 2
+    2300474: pCube7 3
+    2300476: pCube7 4
+    2300478: pCube7 5
+    2300480: pCube7 6
+    2300482: pCube8
+    2300484: pCube8 1
+    2300486: pCube8 10
+    2300488: pCube8 11
+    2300490: pCube8 12
+    2300492: pCube8 13
+    2300494: pCube8 14
+    2300496: pCube8 15
+    2300498: pCube8 2
+    2300500: pCube8 3
+    2300502: pCube8 4
+    2300504: pCube8 5
+    2300506: pCube8 9
+    2300508: pCube9
+    2300510: pCube9 1
+    2300512: pCube9 10
+    2300514: pCube9 11
+    2300516: pCube9 12
+    2300518: pCube9 13
+    2300520: pCube9 14
+    2300522: pCube9 15
+    2300524: pCube9 2
+    2300526: pCube9 3
+    2300528: pCube9 4
+    2300530: pCube9 5
+    2300532: pCube9 9
+    2300534: pSphere1
+    2300536: pSphere1 1
+    2300538: pSphere1 10
+    2300540: pSphere1 11
+    2300542: pSphere1 12
+    2300544: pSphere1 13
+    2300546: pSphere1 14
+    2300548: pSphere1 15
+    2300550: pSphere1 2
+    2300552: pSphere1 3
+    2300554: pSphere1 4
+    2300556: pSphere1 5
+    2300558: pSphere1 9
+    2300560: pSphere2
+    2300562: pSphere2 1
+    2300564: pSphere2 10
+    2300566: pSphere2 11
+    2300568: pSphere2 12
+    2300570: pSphere2 13
+    2300572: pSphere2 14
+    2300574: pSphere2 15
+    2300576: pSphere2 2
+    2300578: pSphere2 3
+    2300580: pSphere2 4
+    2300582: pSphere2 5
+    2300584: pSphere2 9
+    2300586: pSphere3
+    2300588: pSphere3 1
+    2300590: pSphere3 10
+    2300592: pSphere3 11
+    2300594: pSphere3 12
+    2300596: pSphere3 13
+    2300598: pSphere3 14
+    2300600: pSphere3 15
+    2300602: pSphere3 2
+    2300604: pSphere3 3
+    2300606: pSphere3 4
+    2300608: pSphere3 5
+    2300610: pSphere3 9
+    2300612: pSphere4
+    2300614: pSphere4 1
+    2300616: pSphere4 10
+    2300618: pSphere4 11
+    2300620: pSphere4 12
+    2300622: pSphere4 13
+    2300624: pSphere4 14
+    2300626: pSphere4 15
+    2300628: pSphere4 2
+    2300630: pSphere4 3
+    2300632: pSphere4 4
+    2300634: pSphere4 5
+    2300636: pSphere4 9
+    2300638: saku:pCube1
+    2300640: saku:pCube10
+    2300642: saku:pCube2
+    2300644: saku:pCube3
+    2300646: saku:pCube4
+    2300648: saku:pCube5
+    2300650: saku:pCube6
+    2300652: saku:pCube7
+    2300654: saku:pCube8
+    2300656: saku:pCube9
+    2300658: saku:pSphere1
+    2300660: saku:pSphere2
+    2300662: saku:pSphere3
+    2300664: saku:pSphere4
+    2300666: stone:pCube1
+    2300668: wood:group2
+    3300000: glass:grass:grass_01
+    3300002: grass_01
+    3300004: grass_010
+    3300006: grass_011
+    3300008: grass_012
+    3300010: grass_013
+    3300012: grass_014
+    3300014: grass_015
+    3300016: grass_016
+    3300018: grass_017
+    3300020: grass_018
+    3300022: grass_019
+    3300024: grass_02
+    3300026: grass_020
+    3300028: grass_021
+    3300030: grass_03
+    3300032: grass_04
+    3300034: grass_05
+    3300036: grass_06
+    3300038: grass_07
+    3300040: grass_08
+    3300042: grass_09
+    3300044: group19
+    3300046: group20
+    3300048: group21
+    3300050: group22
+    3300052: group23
+    3300054: group24
+    3300056: group26
+    3300058: group27
+    3300060: group28
+    3300062: group29
+    3300064: group30
+    3300066: group31
+    3300068: group32
+    3300070: group33
+    3300072: group34
+    3300074: group35
+    3300076: group36
+    3300078: group37
+    3300080: group38
+    3300082: group39
+    3300084: group40
+    3300086: group41
+    3300088: group42
+    3300090: group43
+    3300092: group44
+    3300094: group45
+    3300096: group46
+    3300098: group47
+    3300100: group48
+    3300102: group49
+    3300104: group50
+    3300106: group51
+    3300108: group52
+    3300110: group53
+    3300112: house_0007:pCone1
+    3300114: house_0007:pCone2
+    3300116: house_0007:pCube1
+    3300118: house_0007:pCube12
+    3300120: house_0007:pCube13
+    3300122: house_0007:pCube28
+    3300124: house_0007:pCube30
+    3300126: house_0007:pCube31
+    3300128: house_0007:pCube71
+    3300130: house_0007:pCube72
+    3300132: house_0007:pCube74
+    3300134: house_0007:pCube75
+    3300136: house_0007:polySurface109
+    3300138: house_0007:polySurface111
+    3300140: house_0007:polySurface114
+    3300142: house_0007:polySurface115
+    3300144: house_0007:polySurface119
+    3300146: house_0007:polySurface120
+    3300148: house_0007:polySurface44
+    3300150: house_0007:polySurface45
+    3300152: house_0007:polySurface46
+    3300154: house_0007:polySurface47
+    3300156: Palm_019
+    3300158: Palm_020
+    3300160: Palm_021
+    3300162: Palm_022
+    3300164: Palm_023
+    3300166: Palm_024
+    3300168: Palm_025
+    3300170: Palm_026
+    3300172: Palm_027
+    3300174: Palm_028
+    3300176: Palm_029
+    3300178: Palm_030
+    3300180: Palm_031
+    3300182: Palm_032
+    3300184: Palm_033
+    3300186: Palm_034
+    3300188: Palm_035
+    3300190: Palm_036
+    3300192: Palm_037
+    3300194: Palm_038
+    3300196: Palm_039
+    3300198: Palm_040
+    3300200: Palm_041
+    3300202: Palm_042
+    3300204: Palm_043
+    3300206: Palm_044
+    3300208: Palm_045
+    3300210: Palm_046
+    3300212: Palm_047
+    3300214: Palm_048
+    3300216: Palm_049
+    3300218: Palm_050
+    3300220: Palm_051
+    3300222: Palm_052
+    3300224: Palm_053
+    3300226: Palm_054
+    3300228: Palm_055
+    3300230: Palm_056
+    3300232: Palm_057
+    3300234: Palm_058
+    3300236: Palm_059
+    3300238: Palm_060
+    3300240: Palm_061
+    3300242: Palm_062
+    3300244: Palm_063
+    3300246: Palm_064
+    3300248: Palm_065
+    3300250: Palm_066
+    3300252: Palm_067
+    3300254: Palm_068
+    3300256: Palm_069
+    3300258: Palm_070
+    3300260: pCube1
+    3300262: pCube1 1
+    3300264: pCube1 10
+    3300266: pCube1 11
+    3300268: pCube1 12
+    3300270: pCube1 13
+    3300272: pCube1 14
+    3300274: pCube1 15
+    3300276: pCube1 16
+    3300278: pCube1 2
+    3300280: pCube1 3
+    3300282: pCube1 4
+    3300284: pCube1 5
+    3300286: pCube1 6
+    3300288: pCube10
+    3300290: pCube10 1
+    3300292: pCube10 10
+    3300294: pCube10 11
+    3300296: pCube10 12
+    3300298: pCube10 13
+    3300300: pCube10 14
+    3300302: pCube10 15
+    3300304: pCube10 2
+    3300306: pCube10 3
+    3300308: pCube10 4
+    3300310: pCube10 5
+    3300312: pCube10 9
+    3300314: pCube11
+    3300316: pCube12
+    3300318: pCube13
+    3300320: pCube14
+    3300322: pCube2
+    3300324: pCube2 1
+    3300326: pCube2 10
+    3300328: pCube2 11
+    3300330: pCube2 12
+    3300332: pCube2 13
+    3300334: pCube2 14
+    3300336: pCube2 15
+    3300338: pCube2 2
+    3300340: pCube2 3
+    3300342: pCube2 4
+    3300344: pCube2 5
+    3300346: pCube2 9
+    3300348: pCube3
+    3300350: pCube3 1
+    3300352: pCube3 10
+    3300354: pCube3 11
+    3300356: pCube3 12
+    3300358: pCube3 13
+    3300360: pCube3 14
+    3300362: pCube3 15
+    3300364: pCube3 16
+    3300366: pCube3 2
+    3300368: pCube3 3
+    3300370: pCube3 4
+    3300372: pCube3 5
+    3300374: pCube3 6
+    3300376: pCube4
+    3300378: pCube4 1
+    3300380: pCube4 10
+    3300382: pCube4 11
+    3300384: pCube4 12
+    3300386: pCube4 13
+    3300388: pCube4 14
+    3300390: pCube4 15
+    3300392: pCube4 2
+    3300394: pCube4 3
+    3300396: pCube4 4
+    3300398: pCube4 5
+    3300400: pCube4 9
+    3300402: pCube5
+    3300404: pCube5 1
+    3300406: pCube5 10
+    3300408: pCube5 11
+    3300410: pCube5 12
+    3300412: pCube5 13
+    3300414: pCube5 14
+    3300416: pCube5 15
+    3300418: pCube5 2
+    3300420: pCube5 3
+    3300422: pCube5 4
+    3300424: pCube5 5
+    3300426: pCube5 9
+    3300428: pCube6
+    3300430: pCube6 1
+    3300432: pCube6 10
+    3300434: pCube6 11
+    3300436: pCube6 12
+    3300438: pCube6 13
+    3300440: pCube6 14
+    3300442: pCube6 15
+    3300444: pCube6 2
+    3300446: pCube6 3
+    3300448: pCube6 4
+    3300450: pCube6 5
+    3300452: pCube6 9
+    3300454: pCube7
+    3300456: pCube7 1
+    3300458: pCube7 10
+    3300460: pCube7 11
+    3300462: pCube7 12
+    3300464: pCube7 13
+    3300466: pCube7 14
+    3300468: pCube7 15
+    3300470: pCube7 16
+    3300472: pCube7 2
+    3300474: pCube7 3
+    3300476: pCube7 4
+    3300478: pCube7 5
+    3300480: pCube7 6
+    3300482: pCube8
+    3300484: pCube8 1
+    3300486: pCube8 10
+    3300488: pCube8 11
+    3300490: pCube8 12
+    3300492: pCube8 13
+    3300494: pCube8 14
+    3300496: pCube8 15
+    3300498: pCube8 2
+    3300500: pCube8 3
+    3300502: pCube8 4
+    3300504: pCube8 5
+    3300506: pCube8 9
+    3300508: pCube9
+    3300510: pCube9 1
+    3300512: pCube9 10
+    3300514: pCube9 11
+    3300516: pCube9 12
+    3300518: pCube9 13
+    3300520: pCube9 14
+    3300522: pCube9 15
+    3300524: pCube9 2
+    3300526: pCube9 3
+    3300528: pCube9 4
+    3300530: pCube9 5
+    3300532: pCube9 9
+    3300534: pSphere1
+    3300536: pSphere1 1
+    3300538: pSphere1 10
+    3300540: pSphere1 11
+    3300542: pSphere1 12
+    3300544: pSphere1 13
+    3300546: pSphere1 14
+    3300548: pSphere1 15
+    3300550: pSphere1 2
+    3300552: pSphere1 3
+    3300554: pSphere1 4
+    3300556: pSphere1 5
+    3300558: pSphere1 9
+    3300560: pSphere2
+    3300562: pSphere2 1
+    3300564: pSphere2 10
+    3300566: pSphere2 11
+    3300568: pSphere2 12
+    3300570: pSphere2 13
+    3300572: pSphere2 14
+    3300574: pSphere2 15
+    3300576: pSphere2 2
+    3300578: pSphere2 3
+    3300580: pSphere2 4
+    3300582: pSphere2 5
+    3300584: pSphere2 9
+    3300586: pSphere3
+    3300588: pSphere3 1
+    3300590: pSphere3 10
+    3300592: pSphere3 11
+    3300594: pSphere3 12
+    3300596: pSphere3 13
+    3300598: pSphere3 14
+    3300600: pSphere3 15
+    3300602: pSphere3 2
+    3300604: pSphere3 3
+    3300606: pSphere3 4
+    3300608: pSphere3 5
+    3300610: pSphere3 9
+    3300612: pSphere4
+    3300614: pSphere4 1
+    3300616: pSphere4 10
+    3300618: pSphere4 11
+    3300620: pSphere4 12
+    3300622: pSphere4 13
+    3300624: pSphere4 14
+    3300626: pSphere4 15
+    3300628: pSphere4 2
+    3300630: pSphere4 3
+    3300632: pSphere4 4
+    3300634: pSphere4 5
+    3300636: pSphere4 9
+    3300638: saku:pCube1
+    3300640: saku:pCube10
+    3300642: saku:pCube2
+    3300644: saku:pCube3
+    3300646: saku:pCube4
+    3300648: saku:pCube5
+    3300650: saku:pCube6
+    3300652: saku:pCube7
+    3300654: saku:pCube8
+    3300656: saku:pCube9
+    3300658: saku:pSphere1
+    3300660: saku:pSphere2
+    3300662: saku:pSphere3
+    3300664: saku:pSphere4
+    3300666: stone:pCube1
+    3300668: wood:group2
+    4300000: pCube3
+    4300002: house_0007:polySurface46
+    4300004: house_0007:polySurface45
+    4300006: house_0007:pCube13
+    4300008: house_0007:pCube12
+    4300010: house_0007:polySurface47
+    4300012: house_0007:pCube31
+    4300014: house_0007:polySurface44
+    4300016: house_0007:pCube74
+    4300018: house_0007:pCube30
+    4300020: house_0007:pCube71
+    4300022: house_0007:pCube28
+    4300024: house_0007:polySurface109
+    4300026: house_0007:pCube1
+    4300028: house_0007:polySurface115
+    4300030: house_0007:pCube72
+    4300032: house_0007:polySurface111
+    4300034: house_0007:polySurface114
+    4300036: house_0007:pCone1
+    4300038: house_0007:pCube75
+    4300040: house_0007:polySurface120
+    4300042: house_0007:pCone2
+    4300044: house_0007:polySurface119
+    4300046: Palm_044
+    4300048: Palm_043
+    4300050: Palm_041
+    4300052: Palm_040
+    4300054: Palm_038
+    4300056: Palm_039
+    4300058: Palm_037
+    4300060: Palm_036
+    4300062: Palm_034
+    4300064: Palm_035
+    4300066: Palm_033
+    4300068: Palm_032
+    4300070: Palm_057
+    4300072: Palm_056
+    4300074: Palm_054
+    4300076: Palm_055
+    4300078: Palm_053
+    4300080: Palm_047
+    4300082: Palm_052
+    4300084: Palm_046
+    4300086: Palm_049
+    4300088: Palm_048
+    4300090: Palm_051
+    4300092: Palm_050
+    4300094: Palm_069
+    4300096: Palm_068
+    4300098: Palm_066
+    4300100: Palm_067
+    4300102: Palm_065
+    4300104: Palm_064
+    4300106: Palm_059
+    4300108: Palm_058
+    4300110: Palm_061
+    4300112: Palm_060
+    4300114: Palm_063
+    4300116: Palm_062
+    4300118: Palm_019
+    4300120: Palm_021
+    4300122: Palm_020
+    4300124: Palm_031
+    4300126: Palm_030
+    4300128: Palm_023
+    4300130: Palm_022
+    4300132: Palm_025
+    4300134: Palm_024
+    4300136: Palm_027
+    4300138: Palm_026
+    4300140: Palm_029
+    4300142: Palm_028
+    4300144: Palm_042
+    4300146: Palm_045
+    4300148: Palm_070
+    4300150: pCube7
+    4300152: saku:pCube10
+    4300154: saku:pSphere2
+    4300156: saku:pSphere4
+    4300158: saku:pCube1
+    4300160: saku:pCube7
+    4300162: saku:pCube3
+    4300164: saku:pCube4
+    4300166: saku:pCube2
+    4300168: saku:pCube5
+    4300170: saku:pCube6
+    4300172: saku:pCube8
+    4300174: saku:pCube9
+    4300176: saku:pSphere3
+    4300178: saku:pSphere1
+    4300180: pCube10
+    4300182: pSphere2
+    4300184: pSphere4
+    4300186: pCube1
+    4300188: pCube7
+    4300190: pCube3
+    4300192: pCube4
+    4300194: pCube2
+    4300196: pCube5
+    4300198: pCube6
+    4300200: pCube8
+    4300202: pCube9
+    4300204: pSphere3
+    4300206: pSphere1
+    4300208: pCube10
+    4300210: pSphere2
+    4300212: pSphere4
+    4300214: pCube1
+    4300216: pCube7
+    4300218: pCube3
+    4300220: pCube4
+    4300222: pCube2
+    4300224: pCube5
+    4300226: pCube6
+    4300228: pCube8
+    4300230: pCube9
+    4300232: pSphere3
+    4300234: pSphere1
+    4300236: pCube10
+    4300238: pSphere2
+    4300240: pSphere4
+    4300242: pCube1
+    4300244: pCube7
+    4300246: pCube3
+    4300248: pCube4
+    4300250: pCube2
+    4300252: pCube5
+    4300254: pCube6
+    4300256: pCube8
+    4300258: pCube9
+    4300260: pSphere3
+    4300262: pSphere1
+    4300264: pCube10
+    4300266: pSphere2
+    4300268: pSphere4
+    4300270: pCube1
+    4300272: pCube7
+    4300274: pCube3
+    4300276: pCube4
+    4300278: pCube2
+    4300280: pCube5
+    4300282: pCube6
+    4300284: pCube8
+    4300286: pCube9
+    4300288: pSphere3
+    4300290: pSphere1
+    4300292: pCube10
+    4300294: pSphere2
+    4300296: pSphere4
+    4300298: pCube1
+    4300300: pCube7
+    4300302: pCube3
+    4300304: pCube4
+    4300306: pCube2
+    4300308: pCube5
+    4300310: pCube6
+    4300312: pCube8
+    4300314: pCube9
+    4300316: pSphere3
+    4300318: pSphere1
+    4300320: pCube10
+    4300322: pSphere2
+    4300324: pSphere4
+    4300326: pCube1
+    4300328: pCube7
+    4300330: pCube3
+    4300332: pCube4
+    4300334: pCube2
+    4300336: pCube5
+    4300338: pCube6
+    4300340: pCube8
+    4300342: pCube9
+    4300344: pSphere3
+    4300346: pSphere1
+    4300348: pCube10
+    4300350: pSphere2
+    4300352: pSphere4
+    4300354: pCube1
+    4300356: pCube7
+    4300358: pCube3
+    4300360: pCube4
+    4300362: pCube2
+    4300364: pCube5
+    4300366: pCube6
+    4300368: pCube8
+    4300370: pCube9
+    4300372: pSphere3
+    4300374: pSphere1
+    4300376: pCube10
+    4300378: pSphere2
+    4300380: pSphere4
+    4300382: pCube1
+    4300384: pCube7
+    4300386: pCube3
+    4300388: pCube4
+    4300390: pCube2
+    4300392: pCube5
+    4300394: pCube6
+    4300396: pCube8
+    4300398: pCube9
+    4300400: pSphere3
+    4300402: pSphere1
+    4300404: pCube10
+    4300406: pSphere2
+    4300408: pSphere4
+    4300410: pCube1
+    4300412: pCube7
+    4300414: pCube3
+    4300416: pCube4
+    4300418: pCube2
+    4300420: pCube5
+    4300422: pCube6
+    4300424: pCube8
+    4300426: pCube9
+    4300428: pSphere3
+    4300430: pSphere1
+    4300432: pCube10
+    4300434: pSphere2
+    4300436: pSphere4
+    4300438: pCube1
+    4300440: pCube7
+    4300442: pCube3
+    4300444: pCube4
+    4300446: pCube2
+    4300448: pCube5
+    4300450: pCube6
+    4300452: pCube8
+    4300454: pCube9
+    4300456: pSphere3
+    4300458: pSphere1
+    4300460: pCube10
+    4300462: pSphere2
+    4300464: pSphere4
+    4300466: pCube1
+    4300468: pCube7
+    4300470: pCube3
+    4300472: pCube4
+    4300474: pCube2
+    4300476: pCube5
+    4300478: pCube6
+    4300480: pCube8
+    4300482: pCube9
+    4300484: pSphere3
+    4300486: pSphere1
+    4300488: pCube10
+    4300490: pSphere2
+    4300492: pSphere4
+    4300494: pCube1
+    4300496: pCube7
+    4300498: pCube3
+    4300500: pCube4
+    4300502: pCube2
+    4300504: pCube5
+    4300506: pCube6
+    4300508: pCube8
+    4300510: pCube9
+    4300512: pSphere3
+    4300514: pSphere1
+    4300516: pCube10
+    4300518: pSphere2
+    4300520: pSphere4
+    4300522: pCube1
+    4300524: pCube7
+    4300526: pCube3
+    4300528: pCube4
+    4300530: pCube2
+    4300532: pCube5
+    4300534: pCube6
+    4300536: pCube8
+    4300538: pCube9
+    4300540: pSphere3
+    4300542: pSphere1
+    4300544: group19
+    4300546: group20
+    4300548: group21
+    4300550: group22
+    4300552: group23
+    4300554: group24
+    4300556: group26
+    4300558: group27
+    4300560: group28
+    4300562: group29
+    4300564: group30
+    4300566: group31
+    4300568: group32
+    4300570: group33
+    4300572: group34
+    4300574: group35
+    4300576: group36
+    4300578: wood:group2
+    4300580: group37
+    4300582: group38
+    4300584: group39
+    4300586: group40
+    4300588: group41
+    4300590: group42
+    4300592: group43
+    4300594: group44
+    4300596: group45
+    4300598: group46
+    4300600: group47
+    4300602: group48
+    4300604: group49
+    4300606: group50
+    4300608: group51
+    4300610: group52
+    4300612: group53
+    4300614: glass:grass:grass_01
+    4300616: grass_01
+    4300618: grass_02
+    4300620: grass_03
+    4300622: grass_04
+    4300624: grass_05
+    4300626: grass_06
+    4300628: grass_07
+    4300630: grass_08
+    4300632: grass_09
+    4300634: grass_010
+    4300636: grass_011
+    4300638: grass_012
+    4300640: grass_013
+    4300642: grass_014
+    4300644: grass_015
+    4300646: grass_016
+    4300648: grass_017
+    4300650: grass_018
+    4300652: grass_019
+    4300654: grass_020
+    4300656: grass_021
+    4300658: stone:pCube1
+    4300660: pCube1
+    4300662: pCube11
+    4300664: pCube12
+    4300666: pCube13
+    4300668: pCube14
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
